@@ -1,3 +1,1 @@
-new file
-
-"Update with Tortoise…"
+"Update with Command Line on MacÓ
