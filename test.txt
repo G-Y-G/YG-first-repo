@@ -1,4 +1,1 @@
-new file
--------------
-"Update with Git…"
-"Update with Command Line on MacÓ
+"Update with Tortoise…"
